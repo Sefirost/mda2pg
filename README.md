@@ -5,7 +5,7 @@ VS Multi-Device Hybrid Apps to PhoneGap Build
 
 Instructions
 ------
-1 - Copy mda2pg.ps1 and mda2pg.xml to yout project directory
+1 - Copy mda2pg.ps1 and mda2pg.xml to your project directory
 
 2 - Edit your .jsproj file and add the following target before closing tag "```</Project>```"
 

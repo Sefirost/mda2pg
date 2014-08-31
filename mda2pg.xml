@@ -2,26 +2,26 @@
 <!-- This file contains settings for deploying automatically Multi-Device Hybrid Apps to PhoneGap Build -->
 <Settings>
   <Mail>
-	<Send>true</Send>
+    <Send>true</Send>
     <Server>smtp.gmail.com</Server>
     <Port>587</Port>
     <Ssl>true</Ssl>
-	<From>YourUser@gmail.com</From>
+    <From>YourUser@gmail.com</From>
     <To>YourUser@gmail.com</To>
-	<Subject>New PhoneGap Build</Subject>
-	<Body><![CDATA[your-message-here]]></Body>
+    <Subject>New PhoneGap Build</Subject>
+    <Body><![CDATA[your-message-here]]></Body>
     <Username>YourUser</Username>
-	<Encrypted>false</Encrypted>
+    <Encrypted>false</Encrypted>
     <Password>Password</Password>
   </Mail>
   <Git>
-	<CopyToRepo>false</CopyToRepo>
-	<Path>C:\Users\You\Source\Repos\MyRepo</Path>
+    <CopyToRepo>false</CopyToRepo>
+    <Path>C:\Users\You\Source\Repos\MyRepo</Path>
   </Git>
   <PhoneGap>
     <ClientId></ClientId>
     <ClientSecret></ClientSecret>
-	<AuthToken></AuthToken>
+    <AuthToken></AuthToken>
     <AppId></AppId>
   </PhoneGap>
 </Settings>
